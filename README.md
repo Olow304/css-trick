@@ -1,2 +1,2 @@
 # css-trick
-useful css snippets 
+snippets 
